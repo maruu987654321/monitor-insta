@@ -16,3 +16,5 @@ if __name__ == "__main__":
     print('else print else')
 
     print('Updated')
+
+    print('Updated for other repo')
