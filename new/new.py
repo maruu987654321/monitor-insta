@@ -9,6 +9,8 @@ def print_hello():
     print(b)
     return c
 
+def new_func():
+    print('hellooo')
 
 
 if __name__ == "__main__":
